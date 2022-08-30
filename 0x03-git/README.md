@@ -1,1 +1,1 @@
-This is a readme for this directory
+Happy to learn how to code with ALX
